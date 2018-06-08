@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.example.leica.geomelodyprototype.PlayActivity">
+
+    <item android:id="@+id/action_settingsMapReturn"
+          android:title="Map"
+          android:orderInCategory="100"
+          android:showAsAction="always"/>
+
+</menu>
